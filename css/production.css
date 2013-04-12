@@ -39,6 +39,7 @@ form {
 }
 iframe {
   overflow-y: scroll;
+  overflow-x: hidden;
   border:0;
 }
 
