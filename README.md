@@ -1,34 +1,29 @@
-Flat UI Free
+iPhone5 Previewer
 =======
 
-Flat UI Free is licensed under a Creative Commons Attribution 3.0 Unported (CC BY 3.0)  (http://creativecommons.org/licenses/by/3.0/). 
+My very first open source project. A full css3 built iPhone5 frame with actual screen size dimensions. Could be used to test responsive website on the actual viewport of the iPhone5.
 
-You are allowed to use these elements anywhere you want, however we’ll highly appreciate if you will link to our website when you share them - http://designmodo.com
-
-Thanks for supporting our website and enjoy!
+Thanks and enjoy!
 
 ## Links:
 
-+ [Demo page](http://designmodo.github.com/Flat-UI/)
-+ [Official page](http://designmodo.com/flat-free)
-+ [Subscribe for Premium Version of Flat UI](http://designmodo.com/flat/)
++ [Demo page](http://stefanhospes.github.io/iphone5-previewer/)
++ [Official page](http://github.com/stefanhospes/iphone5-previewer)
 
 ## Changelog
 
-+ 1.0 Fixed several small IE bugs
-+ 1.1 New icons, Login screen implemented to a real HTML one. Small bug fixes and refinements.
++ 0.1 Initial commit
 
 ## Authors
 
-**Sergey Shmidt**
+**Stefan Hospes**
 
-+ [http://shmidt.in](http://shmidt.in)
-+ [http://twitter.com/monstercritic](http://twitter.com/monstercritic)
++ [https://github.com/stefanhospes/](https://github.com/stefanhospes/)
++ [http://www.site2mobile.com](http://www.site2mobile.com)
 
-**Sergii Iurevych**
+## Credits
+Thanks to the following libraries to make life easier:
 
-+ [http://twitter.com/iurevych](http://twitter.com/iurevych)
-+ [http://github.com/iurevych](http://github.com/iurevych)
-
-## Typeface
-Flat UI Free is made using the Lato typeface, which can be downloaded for free here: http://www.google.com/webfonts/specimen/Lato
++ [Bootstrap/](http://getbootstrap.com)
++ [Flat-Ui](http://designmodo.github.io/Flat-UI/)
++ [jQuery](http://jquery.com)
