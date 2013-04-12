@@ -38,7 +38,7 @@ form {
   margin: 0 !important;
 }
 iframe {
-  overflow: hidden;
+  overflow: scroll;
   border:0;
 }
 
